@@ -1,0 +1,18 @@
+[
+  {
+    "id": 101,
+    "title": "Interstellar",
+    "description": "A science fiction epic.",
+    "language": "English",
+    "durationInMinutes": 169,
+    "genres": ["Sci-Fi", "Adventure"]
+  },
+  {
+    "id": 102,
+    "title": "Inception",
+    "description": "Mind-bending thriller.",
+    "language": "English",
+    "durationInMinutes": 148,
+    "genres": ["Sci-Fi", "Thriller"]
+  }
+]

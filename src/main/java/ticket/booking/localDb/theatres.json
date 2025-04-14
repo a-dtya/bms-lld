@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Cinepolis",
+    "location": "Majestic",
+    "screens": [
+      {
+        "id": 11,
+        "name": "Screen 1",
+        "totalSeats": 100
+      },
+      {
+        "id": 12,
+        "name": "Screen 2",
+        "totalSeats": 80
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Magic Frames",
+    "location": "Whitefield",
+    "screens": [
+      {
+        "id": 21,
+        "name": "Screen 1",
+        "totalSeats": 80
+      },
+      {
+        "id": 22,
+        "name": "Screen 2",
+        "totalSeats": 120
+      }
+    ]
+  }
+]

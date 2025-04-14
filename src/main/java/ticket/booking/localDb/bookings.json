@@ -1,0 +1,15 @@
+[
+  {
+    "id": 501,
+    "userId": 1,
+    "showId": 1001,
+    "bookedSeats": ["A1", "A2"],
+    "status": "BOOKED",
+    "bookingTime": "2025-04-14T17:00:00",
+    "payment": {
+      "amount": 500.0,
+      "status": "COMPLETED",
+      "method": "CARD"
+    }
+  }
+]

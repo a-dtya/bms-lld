@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1001,
+    "movieId": 101,
+    "screenId": 11,
+    "showTime": "2025-04-14T18:30:00",
+    "price": 250.0
+  },
+  {
+    "id": 1002,
+    "movieId": 102,
+    "screenId": 12,
+    "showTime": "2025-04-14T21:00:00",
+    "price": 300.0
+  },
+  {
+    "id": 1003,
+    "movieId": 101,
+    "screenId": 21,
+    "showTime": "2025-04-15T17:00:00",
+    "price": 200.0
+  },
+  {
+    "id": 1004,
+    "movieId": 102,
+    "screenId": 22,
+    "showTime": "2025-04-15T20:30:00",
+    "price": 320.0
+  }
+]
